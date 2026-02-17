@@ -1,0 +1,14 @@
+C:\Users\EliteBook\OneDrive\Desktop\Reto_TiposDeDatos\bin\Debug\net10.0\Reto_TiposDeDatos.exe
+C:\Users\EliteBook\OneDrive\Desktop\Reto_TiposDeDatos\bin\Debug\net10.0\Reto_TiposDeDatos.deps.json
+C:\Users\EliteBook\OneDrive\Desktop\Reto_TiposDeDatos\bin\Debug\net10.0\Reto_TiposDeDatos.runtimeconfig.json
+C:\Users\EliteBook\OneDrive\Desktop\Reto_TiposDeDatos\bin\Debug\net10.0\Reto_TiposDeDatos.dll
+C:\Users\EliteBook\OneDrive\Desktop\Reto_TiposDeDatos\bin\Debug\net10.0\Reto_TiposDeDatos.pdb
+C:\Users\EliteBook\OneDrive\Desktop\Reto_TiposDeDatos\obj\Debug\net10.0\Reto_TiposDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EliteBook\OneDrive\Desktop\Reto_TiposDeDatos\obj\Debug\net10.0\Reto_TiposDeDatos.AssemblyInfoInputs.cache
+C:\Users\EliteBook\OneDrive\Desktop\Reto_TiposDeDatos\obj\Debug\net10.0\Reto_TiposDeDatos.AssemblyInfo.cs
+C:\Users\EliteBook\OneDrive\Desktop\Reto_TiposDeDatos\obj\Debug\net10.0\Reto_TiposDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\OneDrive\Desktop\Reto_TiposDeDatos\obj\Debug\net10.0\Reto_TiposDeDatos.dll
+C:\Users\EliteBook\OneDrive\Desktop\Reto_TiposDeDatos\obj\Debug\net10.0\refint\Reto_TiposDeDatos.dll
+C:\Users\EliteBook\OneDrive\Desktop\Reto_TiposDeDatos\obj\Debug\net10.0\Reto_TiposDeDatos.pdb
+C:\Users\EliteBook\OneDrive\Desktop\Reto_TiposDeDatos\obj\Debug\net10.0\Reto_TiposDeDatos.genruntimeconfig.cache
+C:\Users\EliteBook\OneDrive\Desktop\Reto_TiposDeDatos\obj\Debug\net10.0\ref\Reto_TiposDeDatos.dll

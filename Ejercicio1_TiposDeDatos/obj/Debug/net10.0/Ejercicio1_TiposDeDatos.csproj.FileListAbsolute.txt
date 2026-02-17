@@ -1,0 +1,14 @@
+C:\Users\EliteBook\OneDrive\Desktop\Ejercicio1_TiposDeDatos\bin\Debug\net10.0\Ejercicio1_TiposDeDatos.exe
+C:\Users\EliteBook\OneDrive\Desktop\Ejercicio1_TiposDeDatos\bin\Debug\net10.0\Ejercicio1_TiposDeDatos.deps.json
+C:\Users\EliteBook\OneDrive\Desktop\Ejercicio1_TiposDeDatos\bin\Debug\net10.0\Ejercicio1_TiposDeDatos.runtimeconfig.json
+C:\Users\EliteBook\OneDrive\Desktop\Ejercicio1_TiposDeDatos\bin\Debug\net10.0\Ejercicio1_TiposDeDatos.dll
+C:\Users\EliteBook\OneDrive\Desktop\Ejercicio1_TiposDeDatos\bin\Debug\net10.0\Ejercicio1_TiposDeDatos.pdb
+C:\Users\EliteBook\OneDrive\Desktop\Ejercicio1_TiposDeDatos\obj\Debug\net10.0\Ejercicio1_TiposDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EliteBook\OneDrive\Desktop\Ejercicio1_TiposDeDatos\obj\Debug\net10.0\Ejercicio1_TiposDeDatos.AssemblyInfoInputs.cache
+C:\Users\EliteBook\OneDrive\Desktop\Ejercicio1_TiposDeDatos\obj\Debug\net10.0\Ejercicio1_TiposDeDatos.AssemblyInfo.cs
+C:\Users\EliteBook\OneDrive\Desktop\Ejercicio1_TiposDeDatos\obj\Debug\net10.0\Ejercicio1_TiposDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\OneDrive\Desktop\Ejercicio1_TiposDeDatos\obj\Debug\net10.0\Ejercicio1_TiposDeDatos.dll
+C:\Users\EliteBook\OneDrive\Desktop\Ejercicio1_TiposDeDatos\obj\Debug\net10.0\refint\Ejercicio1_TiposDeDatos.dll
+C:\Users\EliteBook\OneDrive\Desktop\Ejercicio1_TiposDeDatos\obj\Debug\net10.0\Ejercicio1_TiposDeDatos.pdb
+C:\Users\EliteBook\OneDrive\Desktop\Ejercicio1_TiposDeDatos\obj\Debug\net10.0\Ejercicio1_TiposDeDatos.genruntimeconfig.cache
+C:\Users\EliteBook\OneDrive\Desktop\Ejercicio1_TiposDeDatos\obj\Debug\net10.0\ref\Ejercicio1_TiposDeDatos.dll
